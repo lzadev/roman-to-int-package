@@ -1,0 +1,16 @@
+{
+  "name": "roman-to-int",
+  "version": "1.0.0",
+  "description": "Package to convert roman numbers to int",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roman",
+    "int",
+    "convert"
+  ],
+  "author": "Luis Zabala",
+  "license": "ISC"
+}
